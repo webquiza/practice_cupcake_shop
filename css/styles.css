@@ -6,3 +6,20 @@
 body {
   background-color: aqua;
 }
+
+.best {
+  font-weight: bold;
+  font-size: 24px;
+  width: 50%;
+  padding: 20px;
+  border: 2px solid green;
+  background-color: orange;
+  box-sizing: border-box;
+}
+
+
+.column {
+  width: 300px;
+  float: left;
+}
+

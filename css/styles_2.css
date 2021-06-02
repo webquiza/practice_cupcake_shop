@@ -1,0 +1,18 @@
+img {
+  float: right;
+}
+
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: yellow;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+.my-class {
+  border: 2px solid green;
+}
